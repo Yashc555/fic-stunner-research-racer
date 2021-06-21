@@ -1,0 +1,13 @@
+This project uses the following items from Poly (http://poly.google.com):
+
+Title: Liberty Test
+Author: Bennet Doss
+URL: https://poly.google.com/view/3HT2TK2mnEd
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: SM - EIffel Tower
+Author: Scott Marshall
+URL: https://poly.google.com/view/aIpJchqtRTg
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
